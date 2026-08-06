@@ -107,7 +107,7 @@ export default function UsersPage() {
         <div className="card">
           <div className="card-header">
             <div>
-              <h3 className="card-title">Crescimento de Usuários</h3>
+              <h3 className="card-title">Crescimento de Usuarios</h3>
               <p className="card-subtitle">Total acumulado por mês</p>
             </div>
           </div>
